@@ -2972,13 +2972,13 @@ SourceName: dtbocfg
 License: BSD-2-Clause
 LicenseFiles: LICENSE
 Section: kernel
-SourceDateEpoch: 1750805497
+SourceDateEpoch: 1750807542
 Maintainer: Austin Lane <vidplace7@gmail.com>, Tomasz Maciej Nowak <tmn505@gmail.com>
 Architecture: aarch64_generic
 Installed-Size: 20480
 Filename: kmod-fs-dtbocfg_6.6.86.0.1.1-r1_aarch64_generic.ipk
-Size: 3171
-SHA256sum: ef9b3c98c70da3490e44adfea94ae2e3726b0cfa2c67322de1522bf630c2263b
+Size: 3169
+SHA256sum: 694b2516b67e55270965bf6bdb01ea0fe7830054b90958f616c885da22c3af93
 Description:  Device Tree Overlay is a mechanism that enables dynamic loading/unloading
  of a new device tree blob on top of the kernel device tree.
 
