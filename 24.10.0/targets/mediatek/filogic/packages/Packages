@@ -2019,8 +2019,8 @@ Section: kernel
 Architecture: aarch64_cortex-a53
 Installed-Size: 20480
 Filename: kmod-fs-dtbocfg_6.6.73.0.1.1-r1_aarch64_cortex-a53.ipk
-Size: 3112
-SHA256sum: a918550652a6dbc88d24ece554d2a44b2c3ff279d2ee0af24e398e47e6e8013d
+Size: 3110
+SHA256sum: 2fa8b2aaa36cb7280f55cd3a076ae7830609b44633bc404d16d2dedf88e705b4
 Description:  Device Tree Overlay is a mechanism that enables dynamic loading/unloading
  of a new device tree blob on top of the kernel device tree.
 

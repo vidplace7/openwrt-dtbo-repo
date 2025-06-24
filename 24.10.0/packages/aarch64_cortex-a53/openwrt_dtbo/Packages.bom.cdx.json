@@ -1,1 +1,1 @@
-{"serialNumber":"urn:uuid:4c5df24c-84be-4051-865c-598abc334f31","components":[{"type":"application","version":"1.0","name":"openwrt-one-mikrobus-spidev"}],"bomFormat":"CycloneDX","metadata":{"timestamp":"2025-06-24T23:01:35Z"},"version":1,"specVersion":"1.4"}
+{"version":1,"bomFormat":"CycloneDX","specVersion":"1.4","serialNumber":"urn:uuid:23b05902-0915-4aaa-9870-7a03f67ef838","metadata":{"timestamp":"2025-06-24T23:35:59Z"},"components":[{"name":"openwrt-one-mikrobus-spidev","version":"1.0","type":"application"}]}

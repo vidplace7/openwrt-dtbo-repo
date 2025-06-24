@@ -1581,8 +1581,8 @@ Section: kernel
 Architecture: arm_cortex-a7_neon-vfpv4
 Installed-Size: 20480
 Filename: kmod-fs-dtbocfg_6.6.73.0.1.1-r1_arm_cortex-a7_neon-vfpv4.ipk
-Size: 3395
-SHA256sum: e7cb37fc3094227e2d613dcc79499ce854322dc621e10040b1d2f2d225213e1c
+Size: 3397
+SHA256sum: 8455301db38ea2cf8cea5ecc8edb669960ae8110790e4318ad6500fb6dacbb1a
 Description:  Device Tree Overlay is a mechanism that enables dynamic loading/unloading
  of a new device tree blob on top of the kernel device tree.
 
