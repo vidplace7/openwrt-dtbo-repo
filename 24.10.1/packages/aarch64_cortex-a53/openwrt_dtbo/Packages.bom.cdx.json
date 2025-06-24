@@ -1,0 +1,1 @@
+{"bomFormat":"CycloneDX","serialNumber":"urn:uuid:0828d060-b9b2-4cac-adbc-0450d8d4d66c","version":1,"specVersion":"1.4","metadata":{"timestamp":"2025-06-24T23:00:33Z"},"components":[{"type":"application","name":"openwrt-one-mikrobus-spidev","version":"1.0"}]}
