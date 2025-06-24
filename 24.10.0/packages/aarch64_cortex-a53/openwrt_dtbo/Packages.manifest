@@ -1,0 +1,16 @@
+Package: openwrt-one-mikrobus-spidev
+Version: 1.0-r1
+Depends: libc, kmod-spi-dev, kmod-fs-dtbocfg
+Source: /feed/openwrt-one-mikrobus-spidev
+SourceName: openwrt-one-mikrobus-spidev
+Section: opt
+SourceDateEpoch: 1750805497
+URL: https://github.com/openwrt/openwrt/pull/17399
+Architecture: aarch64_cortex-a53
+Installed-Size: 10240
+Filename: openwrt-one-mikrobus-spidev_1.0-r1_aarch64_cortex-a53.ipk
+Size: 1845
+SHA256sum: 4bf9f6a03a1720781c7de0844f214af23e5e0393b4847977792ed99640048107
+Description:  !!! ONLY INSTALL ON OpenWRT One !!!
+ DT Overlay for OpenWRT One MikroBus spidev support
+
